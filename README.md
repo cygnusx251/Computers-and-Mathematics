@@ -1,1 +1,1 @@
-# Colloquium_Jan_2021
+This is a repository created to store and share the lean codes for the student colloquium to be hosted at Ramakrishna Mission Vidyamandira, Department of Mathematics on January, 2021. The codes are unsolved while posted online.
