@@ -3,14 +3,7 @@
 	<head>
 		<title>Computers and Mathematics</title>
 	</head>
-	<style>
-		div {
-			background-color : white
-		}
-		h3 {
-			color : black
-		}
-	</style>
+
 	<body>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 	<div>
