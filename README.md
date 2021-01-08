@@ -1,11 +1,7 @@
+
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Computers and Mathematics</title>
-	</head>
-
 	<body>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 	<div>
 		<center>
 			<h1>Computers and Mathematics</h1>
