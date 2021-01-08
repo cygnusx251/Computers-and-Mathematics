@@ -20,10 +20,8 @@ allowed to use non-constructive things such as the axiom of choice, (which is, a
 or no program). But some of the newer computer proof checking tools (such as Lean) have been designed
 with mathematics in mind. and have simply added things like the axiom of choice as an axiom of the system.
 This means, tools like lean, can now check normal mathematical proofs.</p>
-		</div>
-		<h3>Lean and formalising mathematics</h3>
-		<div id = "current">
-			<p><a href = "https://leanprover.github.io/">Lean</a> is an open source interactive theorem prover and functional programming language being developed at
+<h3>Lean and formalising mathematics</h3>
+<p><a href = "https://leanprover.github.io/">Lean</a> is an open source interactive theorem prover and functional programming language being developed at
 Microsoft Research, hosted on GitHub. It aims to bridge the gap between interactive and automatic theorem
 proving, by situating automated tools and methods in a framework that supports user interaction and the
 construction of fully specified axiomatic proofs.</p>
@@ -35,9 +33,7 @@ tells an interesting story of how he ended up having to formalize the paper proo
 constructed in the late 1990s. The argument involved, at some point, checking thousands and thousands of
 nonlinear inequalities, and the human referees had expressed concern that this part of the argument was not
 human-checkable. They have now all been formally verified by computer.</p>
-		</div>
 		<h3>What Lean can do</h3>
-		<div id = "academics">
 			<p>Lean is a computer program which can</p>
 			<ol>
 				<li>Understand mathematical definitions and true/false statements.</li> 
@@ -81,4 +77,3 @@ with the process of writing a proof from the existing axioms or given data. It w
 			<li><a href="http://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/">The Natural Number Game</a> by Kevin Buzzard and Mohammad Pedramfar.</li>
 			<li><a href="https://github.com/blanchette/logical_verification_2020/raw/master/hitchhikers_guide.pdf">The Hitchhiker's guide to logical verification</a></li>
 		</ol>
-	</div>
