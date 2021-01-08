@@ -1,20 +1,12 @@
-
-<!DOCTYPE html>
-<html>
-	<body>
-	<div>
-		<center>
-			<h1>Computers and Mathematics</h1>
-			<h5>Saptarshi Dandapat</h5>
-			<h5>Ramakrishna Mission Vidyamandira</h5>
-			<h5>Undergraduate Second Year</h5>
-		</center> 
-		<h3>Theorem Proofs and Computer Programs</h3>
-		<div id = "bio_data">
-			<p>Mathematicians rely on computer code to do all sorts of tedious calculations which would be unfeasible to do
+<h1>Computers and Mathematics</h1>
+<h5>Saptarshi Dandapat</h5>
+<h5>Ramakrishna Mission Vidyamandira</h5>
+<h5>Undergraduate Second Year</h5>
+<h3>Theorem Proofs and Computer Programs</h3>
+<p>Mathematicians rely on computer code to do all sorts of tedious calculations which would be unfeasible to do
 by hand. But, what is a computer program? It is just is a sequence of statements following a precise syntax,
 which performs a certain task when the statements are interpreted within the framework of a particular
-programming language. </p>
+programming language.</p>
 <p>A mathematical proof is also a sequence of statements following precise syntax, which performs a cer-
 tain task when the statements are interpreted within the logic and language of pure mathematics. This
 observation is more than an analogy an goes back to Kolmogorov.</p>
@@ -90,5 +82,3 @@ with the process of writing a proof from the existing axioms or given data. It w
 			<li><a href="https://github.com/blanchette/logical_verification_2020/raw/master/hitchhikers_guide.pdf">The Hitchhiker's guide to logical verification</a></li>
 		</ol>
 	</div>
-	</body>
-</html>
