@@ -1,7 +1,9 @@
-<h1>Computers and Mathematics</h1>
+<center>
+<h1>Technological support for exploring Mathematics</h1>
 <h5>Saptarshi Dandapat</h5>
 <h5>Ramakrishna Mission Vidyamandira</h5>
 <h5>Undergraduate Second Year</h5>
+</center>
 <h3>Theorem Proofs and Computer Programs</h3>
 <p>Mathematicians rely on computer code to do all sorts of tedious calculations which would be unfeasible to do
 by hand. But, what is a computer program? It is just is a sequence of statements following a precise syntax,
